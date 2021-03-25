@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+ 
+## Welcome to fairfunds.net
 
 You can use the [editor on GitHub](https://github.com/angular-prj/my-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -19,7 +20,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+1. List
 
 **Bold** and _Italic_ and `Code` text
 
